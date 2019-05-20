@@ -1,1 +1,1 @@
-here is some bs
+here is some bs (this file was created from stebs's desktop in the command line, the text before this parens was typed in windows, the text in this parens was added from the github.com editor, is this too many options to get started?)
